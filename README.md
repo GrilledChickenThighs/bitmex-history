@@ -43,7 +43,9 @@ pip install -r requirements.txt
 
 Then the script can be run. It takes a single argument that is the directory where the database is stored. 
 ```bash
-python updater.py ..
+python updater.py ../assets/XBTUSD/
+or
+python updater.py  <any location you want>
 ```
 
 ## Todo
